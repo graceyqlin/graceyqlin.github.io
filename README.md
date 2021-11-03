@@ -1,3 +1,3 @@
 Hi there!
 
-Check out this page at graceyqlin.github.io to learn more!
+Check out this page at https://graceyqlin.github.io/ to learn more!
