@@ -12,13 +12,13 @@ My focused fields are: Natural Language Processing, Natural Language Understandi
 
 You can see some of my code examples here:
 
-https://github.com/graceyqlin/Code_Examples
+https://github.com/graceyqlin/code_examples
 
 And projects here:
 
 https://jimbauserman.github.io/mids-capstone-careeradvice/
 
-https://github.com/graceyqlin/Search_Engine_For_Visualization/
+https://github.com/graceyqlin/visualization_search_engine
 
 
 Feel free to say hi to me on LinkedIn! 
